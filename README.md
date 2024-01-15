@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @toconaskevin, also known as Kev.
-- 👀 I’m interested in learn more about microservices architecture.
-- 🌱 I’m currently learning Kubernetes and NodeJS.
-- 💞️ I’m looking to collaborate on every microservice project where I could learn about that from experienced people.
+- 👋 Hi, I’m @toconaskevin
+- 👀 I've gone through 4 years as DevOps Engineer.
+- 💞️ I have experience in technologies like Kubernetes, Docker, Azure DevOps, Ansible and different Cloud providers.
+- ⌨️ I worked on projects where I learned different programming languages like Python, Javascript and Java
+- 🌱 I’m currently learning NoSQL database technologies and looking forward to certificate my knowledge as specialist.
 - 📫 How to reach me -> kevintoconas.com.ar
-
-<!---
-toconaskevin/toconaskevin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
