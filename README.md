@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @toconaskevin
-- 👀 I've gone through 4 years as DevOps Engineer.
-- 💞️ I have experience in technologies like Kubernetes, Docker, Azure DevOps, Ansible and different Cloud providers.
+- 👀 I've gone through +5 years as DevOps Engineer.
+- 💞️ I have experience in technologies like Kubernetes, Docker, GitHub, NodeJS, MongoDB and different Cloud providers.
 - ⌨️ I worked on projects where I learned different programming languages like Python, Javascript and Java
-- 🌱 I’m currently learning NoSQL database technologies and looking forward to certificate my knowledge as specialist.
+- 🌱 I'm currently learning to carry out my personal projects hoping to improve my business-related skills.
 - 📫 How to reach me -> kevintoconas.com.ar
